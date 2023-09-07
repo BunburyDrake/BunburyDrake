@@ -14,14 +14,39 @@
 - 👯 Estoy buscando colaborar en **Riot Games**
 
 - 🤝 Estoy buscando ayuda con **Edgar(WAOS)**
+[ReadMe (1).md](https://github.com/BunburyDrake/BunburyDrake/files/12549566/ReadMe.1.md)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [The Cecytem Pc´s](The Cecytem Pc´s)
 
 - 📝 Escribo artículos regularmente sobre [ Genshin](Genshin)
+[Uploading ReadMe (1).md…]()
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BunburyDrake&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BunburyDrake&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BunburyDrake&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BunburyDrake&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 💬 Pregúntame sobre **componentes de PC**
 
-- 📫 Cómo contactarme **vipergd7@gmail.com**
+- 📫 Cómo con
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BunburyDrake&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BunburyDrake&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BunburyDrake&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BunburyDrake&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->[Uploading ReadMe (1).md…]()
+tactarme **vipergd7@gmail.com**
 
 - 📄 Conoce mis experiencias en algun lugar de un gran pais)
 
