@@ -23,7 +23,7 @@
 
 - 📫 Cómo contactarme **vipergd7@gmail.com**
 
-- 📄 Conoce mis experiencias [laaa hyper xxx](laaa hyper xxx)
+- 📄 Conoce mis experiencias en algun lugar de un gran pais)
 
 - ⚡ Diversión fact **no me gusta la escuela**
 
