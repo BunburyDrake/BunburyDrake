@@ -14,7 +14,6 @@
 - 👯 Estoy buscando colaborar en **Riot Games**
 
 - 🤝 Estoy buscando ayuda con **Edgar(WAOS)**
-[ReadMe (1).md](https://github.com/BunburyDrake/BunburyDrake/files/12549566/ReadMe.1.md)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [The Cecytem Pc´s](The Cecytem Pc´s)
 
@@ -35,8 +34,7 @@
 <p align="left">
 </p>
 
-[ReadMe (1).md](https://github.com/BunburyDrake/BunburyDrake/files/12549581/ReadMe.1.md)
-
+[ReadMe (1).md](https://github.com/BunburyDrake/BunburyDrake/files/12549588/ReadMe.1.md)
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊 GitHub Stats:
