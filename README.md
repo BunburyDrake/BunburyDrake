@@ -19,7 +19,24 @@
 - 👨‍💻 Todos mis proyectos están disponibles en [The Cecytem Pc´s](The Cecytem Pc´s)
 
 - 📝 Escribo artículos regularmente sobre [ Genshin](Genshin)
-[Uploading ReadMe (1).md…]()
+
+
+
+
+- 💬 Pregúntame sobre **componentes de PC**
+
+- 📫 Cómo contactarme **vipergd7@gmail.com**
+
+- 📄 Conoce mis experiencias en algun lugar de un gran pais)
+
+- ⚡ Diversión fact **no me gusta la escuela**
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+</p>
+
+[ReadMe (1).md](https://github.com/BunburyDrake/BunburyDrake/files/12549581/ReadMe.1.md)
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊 GitHub Stats:
@@ -31,37 +48,4 @@
 [![](https://visitcount.itsvg.in/api?id=BunburyDrake&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- 💬 Pregúntame sobre **componentes de PC**
-
-- 📫 Cómo con
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BunburyDrake&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BunburyDrake&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BunburyDrake&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=BunburyDrake&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->[Uploading ReadMe (1).md…]()
-tactarme **vipergd7@gmail.com**
-
-- 📄 Conoce mis experiencias en algun lugar de un gran pais)
-
-- ⚡ Diversión fact **no me gusta la escuela**
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Idiomas y herramientas: </h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org /en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original .svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt=" irreal" ancho="40" alto="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunburydrake&show_icons=true&locale=en&layout=compact" alt="bunburydrake" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bunburydrake&show_icons=true&locale=en" alt="bunburydrake" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunburydrake&" alt="bunburydrake" /></p>
 
